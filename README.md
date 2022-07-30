@@ -1,6 +1,6 @@
-## Olá, eu sou o Abraham!
+## Olá, eu sou o Abraham! 👋
 
-- 🌱 Atualmente eu estou estudando Javascript
+Atualmente eu estou estudando Javascript! 📚
 
 <div align="center">
   <a href="https://github.com/AbrahamLica">
