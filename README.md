@@ -15,7 +15,7 @@
 
 ###
 
-<h2 align="left">Techs</h2>
+<h2 align="left">🛠️ Techs</h2>
 
 ###
 
@@ -55,7 +55,7 @@
 
 ###
 
-<h2 align="left">Estatísticas</h2>
+<h2 align="left">📈 Estatísticas</h2>
 
 ###
 
@@ -74,7 +74,7 @@
 
 ###
 
-<h2 align="left">Social Media</h2>
+<h2 align="left">💬 Social Media</h2>
 
 ###
 
