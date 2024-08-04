@@ -1,5 +1,9 @@
 <img width=100% bottom=50px src="https://github.com/user-attachments/assets/9c90409b-a691-45b1-a2a3-068eb33692e5"/>
 
+<br>
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=500&color=D2562B&width=435&lines=Hello%2C+my+name+is+Abraham!;I'm+24+years+old)](https://git.io/typing-svg)
+
 <h2 align="left">👤 Sobre Mim</h2>
 
 ###
