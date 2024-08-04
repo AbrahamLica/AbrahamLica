@@ -5,7 +5,7 @@
 <br>
 <br>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=500&color=D2562B&center=true&width=600&height=100&lines=Hello%2C+my+name+is+Abraham!;I'm+24+years+old)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=500&color=FF0000&center=true&width=600&height=100&lines=Hello%2C+my+name+is+Abraham!;I'm+24+years+old)](https://git.io/typing-svg)
 
 <h2 align="left">👤 Sobre Mim</h2>
 
@@ -59,11 +59,18 @@
 
 ###
 
-<div align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=AbrahamLica&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=codeSTACKr&hide_border=false&order=2&custom_title=Linguagens%20mais%20usadas" height="158" alt="languages graph" /> <br>
-  <img src="https://streak-stats.demolab.com?user=AbrahamLica&locale=en&mode=daily&theme=github_dark&hide_border=false&border_radius=5&date_format=M%20j%5B,%20Y%5D&order=3" height="142" alt="streak graph" /> <br>
-  <img src="https://github-profile-trophy.vercel.app?username=AbrahamLica&theme=matrix&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  />
+<br>
+<br>
+
+<div align="center">
+
+  
+[![GitHub Streak](https://streak-stats.demolab.com?user=AbrahamLica&theme=youtube-dark&locale=pt_BR&date_format=j%2Fn%5B%2FY%5D)](https://git.io/streak-stats)
+
+
 </div>
+
+
 
 ###
 
