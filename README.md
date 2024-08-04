@@ -5,7 +5,7 @@
 <br>
 <br>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=500&color=D2562B&width=600&lines=Hello%2C+my+name+is+Abraham!;I'm+24+years+old)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=500&color=D2562B&center=true&width=600&height=100&lines=Hello%2C+my+name+is+Abraham!;I'm+24+years+old)](https://git.io/typing-svg)
 
 <h2 align="left">👤 Sobre Mim</h2>
 
